@@ -1,0 +1,44 @@
+body{
+	font-family: helvetica, sans-serif, arial;
+	box-sizing: border-box;
+}
+
+.navbar{
+	background-color: gray;
+	border: 3px solid black;
+	margin-bottom: 20px;
+}
+
+h2.text-center{
+	font-weight: 600;
+	margin-bottom: 40px;
+}
+
+.box{
+	background-color: gray;
+}
+
+section.text-center{
+	font-size: 1.3em;
+	margin-bottom: 10px;
+}
+
+p{
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+li{
+	width:100%;
+	background-color: red;
+}
+
+ul{
+	width: 100%
+	background-color: red;
+}
+
+li:hover{
+	background-color: #ffffff;
+}
